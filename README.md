@@ -1,7 +1,7 @@
 # AutoStudy2
 
 ## Download
-https://github.com/Hanleon/AutoStudy2/releases/tag/V2.0.0
+https://github.com/Hanleon/AutoStudy2/releases/tag/V2.0.0  
 百度网盘  
 链接：https://pan.baidu.com/s/1XiBbcauwHOxsN9iLLxFD0w 
 提取码：silu

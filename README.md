@@ -1,10 +1,10 @@
 # AutoStudy2
 
 ## Download
-https://github.com/Hanleon/AutoStudy2/releases/tag/V2.1.0  
+https://github.com/Hanleon/AutoStudy2/releases/tag/V2.2.0  
 百度网盘  
-链接：https://pan.baidu.com/s/1yREmLWa8GEo8NxLIUeWzyw 
-提取码：silu 
+链接：https://pan.baidu.com/s/1dDJtbn5cDeMl40zaZ0QsoA 
+提取码：silu
 
 ## How to use
 __Sep1. 安装环境  
